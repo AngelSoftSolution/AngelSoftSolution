@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 ## 🚀 Full Stack Developer | AI Enthusiast | Open Source Contributor
 
 Passionate about building scalable web applications, AI-powered solutions, and seamless user experiences. With 4 years of experience in software development, I specialize in JavaScript/TypeScript, Python, and backend system architectures. Currently, I'm working on social platforms, trading bots, AI-driven applications, and seamless payment integrations.
